@@ -11,5 +11,9 @@ public class SolarSystem {
         archilies.size= "50m";
         archilies.temp= "124342";
 
+        planet2 nobel= new planet2();
+        nobel.color= "black";
+        nobel.temp= "1000k";
+
     }
 }
